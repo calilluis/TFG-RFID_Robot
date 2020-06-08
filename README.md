@@ -22,7 +22,7 @@ Se pueden observar diversas carpetas:
        ```sh
        $ python <nombre_script.py>
        ```
-      - También se recogen los resultados resumidos en tablas, después de ser procesados. Estos se encuentran disponibles en los archivos "tablas_analisis_resultados.xlsx" y "mapaDobleFiltrado.xlsx" para la prueba de entorno, y "resultados_alturas.xlsx" para la prueba de altura.
+      - También se recogen los resultados resumidos en tablas, después de ser procesados. Estos se encuentran disponibles en los archivos "tablas_analisis_entorno.xlsx" y "mapa_pruebaDobleFiltrado.xlsx" para la prueba de entorno, y "tablas_analisis_altura.xlsx" para la prueba de altura.
  - **Sistema de Notificaciones**
     - Apartado de la memoria relacionado: "3.2 Human-Robot Interface".
     - Se recogen los scripts que se integran en la estructura de ROS del sistema robótico. En concreto, se encuentran los scripts "script_node_BatteryManager.py" (nodo de control de batería) y "script_node_LedsController.py" (nodo de control de leds).
